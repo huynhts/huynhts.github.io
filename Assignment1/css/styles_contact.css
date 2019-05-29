@@ -1,0 +1,9 @@
+.form {
+    margin: 10px;
+}
+
+.formlabel,
+.input {
+    float: left;
+    width: 100%;
+}
