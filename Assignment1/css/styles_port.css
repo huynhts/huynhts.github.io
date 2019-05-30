@@ -48,24 +48,27 @@ text {
     color: #233656;
     text-align: center;
     position: relative;
-    left: 12px;
-    top: 240px;
+    top: 230px;
 }
 
 .pic_cap2 {
     position: relative;
-    left: 286px;
-    top: 190px;
+    top: 230px;
 }
 
 .pic_cap3 {
     position: relative;
-    left: 12px;
-    top: 463px;
+    top: 230px;
 }
 
 .pic_cap4 {
     position: relative;
-    left: 286px;
-    top: 413px;
+    top: 230px;
+}
+
+.image_text1 {
+    position: relative;
+    top: -73px;
+    color: black;
+    text-align: center;
 }
