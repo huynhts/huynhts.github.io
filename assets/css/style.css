@@ -10,12 +10,14 @@ h2 {
     width: 100%;
     margin: 0px auto;
     padding: 10px 0px 0px 0px;
-    border-bottom: solid #000000 2px;
+}
+
+section {
+    border-top: solid #000000 4px;
 }
 
 p {
     padding: 10px 0px;
-    border-bottom: solid #000000 2px;
     color: #3d3d3d;
 }
 
@@ -34,4 +36,12 @@ text {
     margin-right: auto;
     left: 0;
     right: 0;
+}
+
+.projects {
+    list-style: none;
+}
+
+a {
+    color: #3d3d3d;
 }
