@@ -6,19 +6,28 @@ body {
     background-color: #727171ad;
 }
 
+h1 {
+    font-family: 'Francois One', sans-serif;
+}
+
 h2 {
     width: 100%;
     margin: 0px auto;
     padding: 10px 0px 0px 0px;
+    font-family: 'Francois One', sans-serif;
 }
 
 section {
     border-top: solid #000000 4px;
 }
 
-p {
+.aboutP {
     padding: 10px 0px;
     color: #3d3d3d;
+    font-family: 'Francois One', sans-serif;
+    font-size: 30px;
+    text-align: justify;
+    
 }
 
 .aboutimg {
@@ -40,8 +49,17 @@ text {
 
 .projects {
     list-style: none;
+    font-family: 'Francois One', sans-serif;
+    font-size: 30px;
 }
 
-a {
+a,
+li {
+    color: #3d3d3d;
+}
+
+.contactP {
+    font-family: 'Francois One', sans-serif;
+    font-size: 30px;
     color: #3d3d3d;
 }
